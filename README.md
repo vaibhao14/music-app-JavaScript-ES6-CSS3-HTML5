@@ -1,5 +1,7 @@
-### Download or clone the project 
+### Instructions -
 
-### Open in the browser
+1. Download or clone the project 
 
-### Click on the different colors to play different music
+2. Open in the browser
+
+3. Click on the different colors to play different music
